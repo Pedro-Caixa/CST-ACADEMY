@@ -1,0 +1,6 @@
+[package]
+name = "pedro-caixa/remotemanager"
+version = "0.1.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Wally port to RainyLofi RemoteManager module, all credits to him."

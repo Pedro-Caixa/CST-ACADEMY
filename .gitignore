@@ -1,0 +1,10 @@
+# Project place file
+/CST-ACADEMY.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Extras
+sourcemap.json
+.vscode
